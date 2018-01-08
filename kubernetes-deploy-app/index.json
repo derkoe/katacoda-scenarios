@@ -1,0 +1,26 @@
+{
+  "title": "Kubernetes - Deploy Application via kubectl",
+  "description": "Learn how to use Kubernetes to deploy your application using kubectl",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 - Deploy",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "files": [],
+  "environment": {
+    "uilayout": "terminal",
+    "icon": "fa-kubernetes"
+  },
+  "backend": {
+    "imageid": "kubernetes"
+  }
+}
